@@ -13,7 +13,6 @@ import './style/main.scss';
 
 import Layout from './components/layout';
 
-
 function main() {
   ReactDOM.render(
     <Provider store={createStoreWithMiddleware(reducers)}>
