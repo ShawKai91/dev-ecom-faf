@@ -6,7 +6,7 @@ import Navbar from './headernavbar/navbar';
 class Layout extends Component {
   render() {
     return (
-      <div className="layout">
+      <div className='layout'>
         {this.props.children}
         <Header/>
         <Navbar/>
@@ -15,4 +15,4 @@ class Layout extends Component {
   }
 }
 
-export default Layout; 
+export default Layout;

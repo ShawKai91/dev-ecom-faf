@@ -9,4 +9,4 @@ class PageTitle extends Component {
     }
 }
 
-export default PageTitle; 
+export default PageTitle;
