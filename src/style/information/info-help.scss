@@ -25,10 +25,8 @@
 
 .info-title-green {
     .info-title {
-        &__title {
-            font-weight: 600;
-            color: #0c0;
-        }
+        &__title {font-weight: 600;}
+        &__title, &__value {color: #0c0;}
     }
 }
 
